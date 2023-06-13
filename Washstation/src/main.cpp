@@ -1,4 +1,3 @@
-
 //TBAILEY INC WHEELABRATOR WASHSTATION CONTROL CODE
 //Wash Station Operates in two modes. Automatic and Manual.
 
@@ -19,7 +18,7 @@
 //4  CYCLE_VALVE_CLOSING Set
 //4  If OPERATION_AUTOMATIC then CYCLE_TIMED_STOP and wait for AUTOSTOPDELAY seconds before powering down unit.
 
-
+#include <Arduino.h>
 //#define DEBUG
 
 //Pin Definitions
