@@ -19,6 +19,7 @@
 //4  If OPERATION_AUTOMATIC then CYCLE_TIMED_STOP and wait for AUTOSTOPDELAY seconds before powering down unit.
 
 #include <Arduino.h>
+
 //#define DEBUG
 
 //Pin Definitions
